@@ -1,4 +1,4 @@
-#Financial Spend Analysis – Visa & Amex (2023–2024)
+# Financial Spend Analysis – Visa & Amex (2023–2024)
 
 This project analyses a year of Visa and Amex transaction data to uncover spending trends, identify anomalies, and create a clean, well-structured dataset suitable for dashboards and reporting.
 It demonstrates practical data cleaning, transformation, exploratory analysis, and dashboard-building skills using Excel, Python, SQL, and Tableau.
@@ -176,10 +176,10 @@ It’s a realistic example of the type of work involved in financial analytics, 
 
 ## Folder Structure
 project-financial-analysis/
-    ├── README.md
-    ├── data_raw
-    ├── data_clean/
-    └── images/
+     README.md
+     data_raw
+     data_clean/
+     images/
 
 ## Future Improvements
 
